@@ -7,7 +7,7 @@ _(WHO, 2001)_
 
 _Illustration of the Nervous System, Camillo Golgi and Santiago Ramón y Cajal, 1885_
 
-Eine Sammlung von Datensätzen zum Thema «Mental Health» welche im Frühlingssemester 2024 im Bachelor Data Design + Art für die Projektarbeit in den Modulen «Think2/4» und «Play2/4» verwendet werden. Öffentlich zugängliche Datensätze sind direkt verlinkt. Datensätze welche aus unterschiedlichen Gründen nicht öffentlich geteilt werden können sind auf Anfrage der Studierenden beim DD + A Team verfügbar. Die Datensätze haben vorwiegend einen Bezug zur Schweiz. Einige globale Datensätze sind
+Eine Sammlung von Datensätzen zum Thema «Mental Health» welche im Frühlingssemester 2024 im Bachelor Data Design + Art für die Projektarbeit in den Modulen «Think2/4» und «Play2/4» verwendet werden. Öffentlich zugängliche Datensätze sind direkt verlinkt. Datensätze welche aus unterschiedlichen Gründen nicht öffentlich geteilt werden können sind auf Anfrage der Studierenden beim DD + A Team verfügbar. 
 
 ## Allgemeine Datensätze
 
