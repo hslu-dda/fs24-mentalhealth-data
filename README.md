@@ -9,25 +9,28 @@ _Illustration of the Nervous System, Camillo Golgi and Santiago Ramón y Cajal, 
 
 Eine Sammlung von Datensätzen zum Thema «Mental Health» welche im Frühlingssemester 2024 im Bachelor Data Design + Art für die Projektarbeit in den Modulen «Think2/4» und «Play2/4» verwendet werden. Öffentlich zugängliche Datensätze sind direkt verlinkt. Datensätze welche aus unterschiedlichen Gründen nicht öffentlich geteilt werden können sind auf Anfrage der Studierenden beim DD + A Team verfügbar. 
 
+## Allgemeine Portale für Daten & Berichte
+
+- Indikatoren des Schweizerischen Gesundheitsobservatorium (Obsan), [https://ind.obsan.admin.ch/de](https://ind.obsan.admin.ch/de)
+- Bundesamt für Statistik BFS, [Statistiken zu Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit.html)
+- World Health Organisation, _[Indicators Index](https://www.who.int/data/gho/data/indicators/indicators-index)_
+- Netzwerk Psychische Gesundheit Schweiz, _[Dokumentensammlung](https://www.npg-rsp.ch/dokumente.html)_
+- Prevention.ch, _[Artikel und Berichte](https://www.prevention.ch/)_
+- European data, *[data.europa.eu «Mental Health»](https://data.europa.eu/data/datasets?query=Mental%20Health&locale=de)*
+- Landscaping International Logitudinal Datasets, [Report and Datasets](https://www.landscaping-longitudinal-research.com/)
+
 ## Allgemeine Datensätze
 
 - OBSAN Schweizerisches Gesundheitsobservatorium, Bericht 03/ 2023 [_Psychische Gesundheit – Erhebung Herbst 2022_](https://www.obsan.admin.ch/de/publikationen/2023-psychische-gesundheit-erhebung-herbst-2022), Daten bei DD + A
 - Bundesamt für Statistik BFS, _[Psychische Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/psychische.html)
-- World Health Organisation, _[Indicators Index](https://www.who.int/data/gho/data/indicators/indicators-index)_
-- Netzwerk Psychische Gesundheit Schweiz, _[Dokumentensammlung](https://www.npg-rsp.ch/dokumente.html)_
-- Prevention.ch, _[Artikel und Berichte](https://www.prevention.ch/)_
 
-### Allgemeine weitere Datenportale
 
-- European data, *[data.europa.eu «Mental Health»](https://data.europa.eu/data/datasets?query=Mental%20Health&locale=de)*
-- Landscaping International Logitudinal Datasets, [Report and Datasets](https://www.landscaping-longitudinal-research.com/)
 ## Stress
 
+- Obsan, _[Arbeitsbedingter Stress (Alter: 16–65)](https://ind.obsan.admin.ch/indicator/monam/arbeitsbedingter-stress-alter-16-65)_
+- Gesundheitsförderung Schweiz, *[Job-Stress-Index 2022](https://friendlyworkspace.ch/de/themen/arbeitsbedingter-stress/studie-job-stress-index)*
 - Bundesamt für Statistik BFS, *[Wirtschaftliche und soziale Situation der Bevölkerung](https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung.html)*
 - Bundesamt für Statistik BFS, *[Soziale Sicherheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit.html)*
-- Obsan, _[IV-Neurenten aufgrund Krankheit (Alter: 18–Rentenalter)](https://ind.obsan.admin.ch/indicator/monam/iv-neurenten-aufgrund-krankheit-alter-18-rentenalter)_
-- Gesundheitsförderung Schweiz, *[Job-Stress-Index 2022](https://friendlyworkspace.ch/de/themen/arbeitsbedingter-stress/studie-job-stress-index)*
-
 
 ## Sucht (inkl. Medienkonsum)
 
