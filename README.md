@@ -11,7 +11,7 @@ Eine Sammlung von Datensätzen zum Thema «Mental Health» welche im Frühlingss
 
 ## Allgemeine Datensätze
 
-- [OBSAN](https://www.obsan.admin.ch/de/gesundheitsthemen/psychische-gesundheit) Schweizerisches Gesundheitsobservatorium, Bericht _Psychische Gesundheit 2023_, Daten bei DD + A
+- OBSAN Schweizerisches Gesundheitsobservatorium, Bericht 03/ 2023 [_Psychische Gesundheit – Erhebung Herbst 2022_](https://www.obsan.admin.ch/de/publikationen/2023-psychische-gesundheit-erhebung-herbst-2022), Daten bei DD + A
 - Bundesamt für Statistik BFS, _[Psychische Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/psychische.html)
 - World Health Organisation, _[Indicators Index](https://www.who.int/data/gho/data/indicators/indicators-index)_
 - Netzwerk Psychische Gesundheit Schweiz, _[Dokumentensammlung](https://www.npg-rsp.ch/dokumente.html)_
@@ -55,5 +55,4 @@ Eine Sammlung von Datensätzen zum Thema «Mental Health» welche im Frühlingss
 - Bundesamt für Statistik BFS, *[Kriminalität und Strafrecht](https://www.bfs.admin.ch/bfs/de/home/statistiken/kriminalitaet-strafrecht.html)*
 - Corona Immunitas, [Berichte](https://www.corona-immunitas.ch/), [Datensätze](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Corona%20Immunitas%20Working%20Group%22&l=list&p=1&s=10&sort=bestmatch)
 - Bundestamt für Statistik BFS, *[Finanzielle Situation und psychische Gesundheit der Studierenden während der Covid-19-Pandemie im Jahr 2020](https://opendata.swiss/de/dataset/finanzielle-situation-und-psychische-gesundheit-der-studierenden-wahrend-der-covid-19-pand-2020)*
-
 
