@@ -7,12 +7,12 @@ _(WHO, 2001)_
 
 _Illustration of the Nervous System, Camillo Golgi and Santiago Ramón y Cajal, 1885_
 
-Eine Sammlung von Datensätzen zum Thema «Mental Health» welche im Frühlingssemester 2024 im Bachelor Data Design + Art für die Projektarbeit in den Modulen «Think2/4» und «Play2/4» verwendet werden. Öffentlich zugängliche Datensätze sind direkt verlinkt. Datensätze welche aus unterschiedlichen Gründen nicht öffentlich geteilt werden können sind auf Anfrage der Studierenden beim DD + A Team verfügbar. 
+Eine Sammlung von Berichten, Studien und Datensätzen zum Thema «Mental Health» welche im Frühlingssemester 2024 im Bachelor Data Design + Art für die Projektarbeit in den Modulen «Think2/4» und «Play2/4» verwendet werden. 
 
 ## Allgemeine Portale für Daten & Berichte
 
-- Indikatoren des Schweizerischen Gesundheitsobservatorium (Obsan), [https://ind.obsan.admin.ch/de](https://ind.obsan.admin.ch/de)
-- Bundesamt für Statistik BFS, [Statistiken zu Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit.html)
+- Indikatoren des Schweizerischen Gesundheitsobservatorium (Obsan), _[https://ind.obsan.admin.ch/de](https://ind.obsan.admin.ch/de)_
+- Bundesamt für Statistik BFS, _[Statistiken zu Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit.html)_
 - World Health Organisation, _[Indicators Index](https://www.who.int/data/gho/data/indicators/indicators-index)_
 - Netzwerk Psychische Gesundheit Schweiz, _[Dokumentensammlung](https://www.npg-rsp.ch/dokumente.html)_
 - Prevention.ch, _[Artikel und Berichte](https://www.prevention.ch/)_
@@ -21,32 +21,33 @@ Eine Sammlung von Datensätzen zum Thema «Mental Health» welche im Frühlingss
 
 ## Allgemeine Datensätze
 
-- OBSAN Schweizerisches Gesundheitsobservatorium, Bericht 03/ 2023 [_Psychische Gesundheit – Erhebung Herbst 2022_](https://www.obsan.admin.ch/de/publikationen/2023-psychische-gesundheit-erhebung-herbst-2022), Daten bei DD + A
-- Bundesamt für Statistik BFS, _[Psychische Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/psychische.html)
-
+- OBSAN Schweizerisches Gesundheitsobservatorium, Bericht 03/ 2023 [_Psychische Gesundheit – Erhebung Herbst 2022_](https://www.obsan.admin.ch/de/publikationen/2023-psychische-gesundheit-erhebung-herbst-2022), Daten auf Anfrage beim DD + A Team
+- Bundesamt für Statistik BFS, _[Psychische Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/psychische.html)_
+- Health Behaviour in School-aged Children (HBSC), [Global Study 2018](https://hbsc.org/data/), Daten auf Anfrage beim DD + A Team
+- Health Behaviour in School-aged Children (HBSC), [_Schweizer Schülerinnen- und Schülerbefragung zum Gesundheitsverhalten_](https://www.hbsc.ch/de/startseite.html)
 
 ## Stress
 
 - Obsan, _[Arbeitsbedingter Stress (Alter: 16–65)](https://ind.obsan.admin.ch/indicator/monam/arbeitsbedingter-stress-alter-16-65)_
+- Obsan,_[Emotionale Erschöpfung (Alter: 16–65)](https://ind.obsan.admin.ch/indicator/monam/emotionale-erschoepfung-alter-16-65)_
 - Gesundheitsförderung Schweiz, *[Job-Stress-Index 2022](https://friendlyworkspace.ch/de/themen/arbeitsbedingter-stress/studie-job-stress-index)*
 - Bundesamt für Statistik BFS, *[Wirtschaftliche und soziale Situation der Bevölkerung](https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung.html)*
 - Bundesamt für Statistik BFS, *[Soziale Sicherheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit.html)*
 
 ## Sucht (inkl. Medienkonsum)
 
-- Sucht Schweiz, *[Zahlen & Fakten](https://www.suchtschweiz.ch/zahlen-und-fakten/)*, weitere Daten via [Tableu Public](https://public.tableau.com/app/profile/addiction.suisse/vizzes)
-- Health Behaviour in School-aged Children (HBSC), [_Schweizer Schülerinnen- und Schülerbefragung zum Gesundheitsverhalten_](https://www.hbsc.ch/de/startseite.html)
-- Obsan, [_Sucht: Entwicklung der Eintritte in Behandlung_](https://ind.obsan.admin.ch/indicator/monam/sucht-entwicklung-der-eintritte-in-behandlung)
 - Obsan, [*MonAM Schweizer Monitoring-System Sucht und nichtübertragbare Krankheiten*](https://ind.obsan.admin.ch/monam)
+- Obsan, [_Sucht: Entwicklung der Eintritte in Behandlung_](https://ind.obsan.admin.ch/indicator/monam/sucht-entwicklung-der-eintritte-in-behandlung)
+- Sucht Schweiz, *[Zahlen & Fakten](https://www.suchtschweiz.ch/zahlen-und-fakten/)*, weitere Daten via [Tableu Public](https://public.tableau.com/app/profile/addiction.suisse/vizzes)
 - Bundesamt für Statistik BFS, *[Forschungsberichte Verhaltenssüchte](https://www.bag.admin.ch/bag/de/home/das-bag/publikationen/forschungsberichte/forschungsberichte-sucht/forschungsberichte-verhaltenssuechte.html)*
 - Prevention.ch, _[Artikel und Berichte](https://www.prevention.ch/)_
 - HSLU, *[Die Spielsperre als Massnahme des Spielerschutzes](https://mycampus.hslu.ch/de-ch/hochschule-luzern/hochschule-luzern/forschung/projekte/detail/?pid=4007)*, Datensatz auf *[Swissubase](https://www.swissubase.ch/en/catalogue/studies/20254/latest/datasets/2366/2853/overview)*
 - Bundesamt für Statistik BFS, *[Kultur, Medien, Informationsgesellschaft, Sport](https://www.bfs.admin.ch/bfs/de/home/statistiken/kultur-medien-informationsgesellschaft-sport.html)*
-- Oxford Internet Institute, *[No ‘smoking gun’ mental health harm from internet: landmark Oxford survey](https://www.oii.ox.ac.uk/news-events/no-smoking-gun-mental-health-harm-from-internet-landmark-oxford-survey/)*, [Dataset](https://zenodo.org/records/8387775)
+- Oxford Internet Institute, *[Global Well-Being and Mental Health in the Internet Age](https://journals.sagepub.com/doi/10.1177/21677026231207791)*, [Dataset](https://zenodo.org/records/8387775)
 
-## Soziale Ressourcen, soziodemographische Faktoren
+## Soziale Ressourcen & Soziodemographische Faktoren
 
-- Obsan, *[Soziale Ressourcen als Gesundheitsschutz](# Soziale Ressourcen als Gesundheitsschutz)*
+- Obsan, Obsan Bulletin 1/2014, *[Soziale Ressourcen als Gesundheitsschutz](https://www.obsan.admin.ch/de/publikationen/2014-soziale-ressourcen-als-gesundheitsschutz)*
 - Bundesamt für Statistik BFS, *[Subjektive Einschätzung des psychischen Wohlbefindens, nach verschiedenen soziodemografischen Merkmalen](https://opendata.swiss/de/dataset/subjektive-einschatzung-des-psychischen-wohlbefindens-nach-verschiedenen-soziodemografischen-me)*
 - Bundesamt für Statistik BFS, *[Einsamkeitsgefühl](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/migration-integration/integrationindikatoren/gesundheit/einsamkeitsgefuhl.html)*
 - Bundesamt für Statistik BFS, *[Wirtschaftliche und soziale Situation der Bevölkerung](https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung.html)*
