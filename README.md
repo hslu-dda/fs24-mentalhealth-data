@@ -21,9 +21,9 @@ Eine Sammlung von Berichten, Studien und Datensätzen zum Thema «Mental Health�
 
 ## Allgemeine Datensätze
 
-- OBSAN Schweizerisches Gesundheitsobservatorium, Bericht 03/ 2023 [_Psychische Gesundheit – Erhebung Herbst 2022_](https://www.obsan.admin.ch/de/publikationen/2023-psychische-gesundheit-erhebung-herbst-2022), Daten auf Anfrage beim DD + A Team
+- OBSAN Schweizerisches Gesundheitsobservatorium, Bericht 03/ 2023 [_Psychische Gesundheit – Erhebung Herbst 2022_](https://www.obsan.admin.ch/de/publikationen/2023-psychische-gesundheit-erhebung-herbst-2022), Daten als XLSX verfügbar: _[Begleitdokument Obsan Bericht 03/2023](https://www.obsan.admin.ch/sites/default/files/2023-05/Online_Tabellenanhang_final.xlsx)_
 - Bundesamt für Statistik BFS, _[Psychische Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/psychische.html)_
-- Health Behaviour in School-aged Children (HBSC), [Global Study 2018](https://hbsc.org/data/), Daten auf Anfrage beim DD + A Team
+- Health Behaviour in School-aged Children (HBSC), [Global Study 2014/2018](https://hbsc.org/data/), Daten auf Anfrage beim DD + A Team
 - Health Behaviour in School-aged Children (HBSC), [_Schweizer Schülerinnen- und Schülerbefragung zum Gesundheitsverhalten_](https://www.hbsc.ch/de/startseite.html)
 
 ## Stress
