@@ -9,7 +9,7 @@ _Illustration of the Nervous System, Camillo Golgi and Santiago Ramón y Cajal, 
 
 Eine Sammlung von Berichten, Studien und Datensätzen zum Thema «Mental Health» welche im Frühlingssemester 2024 im Bachelor Data Design + Art für die Projektarbeit in den Modulen «Think2/4» und «Play2/4» verwendet werden. 
 
-## Allgemeine Portale für Daten & Berichte
+## Portale für Daten & Berichte
 
 - Indikatoren des Schweizerischen Gesundheitsobservatorium (Obsan), _[https://ind.obsan.admin.ch/de](https://ind.obsan.admin.ch/de)_
 - Bundesamt für Statistik BFS, _[Statistiken zu Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit.html)_
@@ -19,7 +19,7 @@ Eine Sammlung von Berichten, Studien und Datensätzen zum Thema «Mental Health�
 - European data, *[data.europa.eu «Mental Health»](https://data.europa.eu/data/datasets?query=Mental%20Health&locale=de)*
 - Landscaping International Logitudinal Datasets, [Report and Datasets](https://www.landscaping-longitudinal-research.com/)
 
-## Allgemeine Datensätze
+## Themenübergreifende Datensätze
 
 - OBSAN Schweizerisches Gesundheitsobservatorium, Bericht 03/ 2023 [_Psychische Gesundheit – Erhebung Herbst 2022_](https://www.obsan.admin.ch/de/publikationen/2023-psychische-gesundheit-erhebung-herbst-2022), Daten als XLSX verfügbar: _[Begleitdokument Obsan Bericht 03/2023](https://www.obsan.admin.ch/sites/default/files/2023-05/Online_Tabellenanhang_final.xlsx)_
 - Bundesamt für Statistik BFS, _[Psychische Gesundheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/psychische.html)_
@@ -33,6 +33,7 @@ Eine Sammlung von Berichten, Studien und Datensätzen zum Thema «Mental Health�
 - Gesundheitsförderung Schweiz, *[Job-Stress-Index 2022](https://friendlyworkspace.ch/de/themen/arbeitsbedingter-stress/studie-job-stress-index)*
 - Bundesamt für Statistik BFS, *[Wirtschaftliche und soziale Situation der Bevölkerung](https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung.html)*
 - Bundesamt für Statistik BFS, *[Soziale Sicherheit](https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit.html)*
+- Universität Basel, _[Swiss Corona Stress Study](https://www.researchgate.net/publication/340911576_The_Swiss_Corona_Stress_Study)_
 
 ## Sucht (inkl. Medienkonsum)
 
